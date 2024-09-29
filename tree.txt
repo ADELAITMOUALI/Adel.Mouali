@@ -1,0 +1,20 @@
+your-project/
+├── app/
+│   ├── page.tsx
+│   ├── tryhackme-labs/
+│   │   └── page.tsx
+│   ├── hackthebox-labs/
+│   │   └── page.tsx
+│   └── [platform]/
+│       └── [labSlug]/
+│           └── page.tsx
+├── public/
+│   └── images/
+│       ├── adel-mouali.jpg
+│       ├── tryhackme-banner.png
+│       ├── hackthebox-banner.png
+│       ├── basic-pentesting.png
+│       ├── owasp-top-10.png
+│       ├── htb-lame.png
+│       └── htb-legacy.png
+└── package.json
